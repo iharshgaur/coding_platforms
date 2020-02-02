@@ -1,0 +1,43 @@
+{
+    "version": "2017-07-05",
+    "clientid": "s0001",
+    "statement": {
+    "publisher": "raspberry pi",
+    "publishstatus": false,
+    "subscribestatus": false,
+    "subscribedetails":
+    {
+    "topic": "None",
+    "assetdetails": {
+    {
+    "version": "2017-07-05",
+    "clientid": "s0001",
+    "statement": {
+    "publisher": "raspberry pi",
+    "publishstatus": true,
+    "subscribestatus": true,
+    "subscribedetails":
+    {
+    "topic": "None",
+    "assetdetails": {
+    "assetname": "None",
+    {
+    "version": "2017-07-05",
+    "clientid": "s0001",
+    "statement": {
+    "publisher": "raspberry pi",
+    "publishstatus": true,
+    "subscribestatus": true,
+    "subscribedetails":
+    {
+    "topic": "None",
+    "assetdetails": {
+    "assetname": "None",
+    "assetname":
+    "None",
+    "assetid": "None"
+    }
+    }
+    }
+    }
+    
