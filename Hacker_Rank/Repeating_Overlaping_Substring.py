@@ -16,4 +16,4 @@ if __name__ == '__main__':
     sub_string = raw_input().strip()
     
     count = count_substring(string, sub_string)
-    print count
+    print (count)
